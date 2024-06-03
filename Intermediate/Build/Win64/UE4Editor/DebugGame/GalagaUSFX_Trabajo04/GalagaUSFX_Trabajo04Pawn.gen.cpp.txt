@@ -1,0 +1,11 @@
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX_Trabajo04\Definitions.GalagaUSFX_Trabajo04.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Source\GalagaUSFX_Trabajo04/GalagaUSFX_Trabajo04Pawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04Pawn.generated.h

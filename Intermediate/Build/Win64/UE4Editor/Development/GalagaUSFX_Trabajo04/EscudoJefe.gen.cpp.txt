@@ -1,0 +1,5 @@
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX_Trabajo04\Definitions.GalagaUSFX_Trabajo04.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Source\GalagaUSFX_Trabajo04/EscudoJefe.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_Trabajo04\EscudoJefe.generated.h

@@ -1,0 +1,5 @@
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX_Trabajo04\Definitions.GalagaUSFX_Trabajo04.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Source\GalagaUSFX_Trabajo04\Publisher.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_Trabajo04\Publisher.generated.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Source\GalagaUSFX_Trabajo04\Subscriber.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_Trabajo04\Subscriber.generated.h

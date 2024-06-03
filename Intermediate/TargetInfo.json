@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GalagaUSFX_Trabajo04",
+			"Path": "C:\\SIS457\\GalagaUSFX_Trabajo05_Sirve\\Source\\GalagaUSFX_Trabajo04.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GalagaUSFX_Trabajo04Editor",
+			"Path": "C:\\SIS457\\GalagaUSFX_Trabajo05_Sirve\\Source\\GalagaUSFX_Trabajo04Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

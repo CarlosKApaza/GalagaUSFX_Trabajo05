@@ -1,0 +1,3 @@
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX_Trabajo04\Definitions.GalagaUSFX_Trabajo04.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

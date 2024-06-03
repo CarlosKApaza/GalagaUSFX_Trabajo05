@@ -1,0 +1,11 @@
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX_Trabajo04\Definitions.GalagaUSFX_Trabajo04.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Source\GalagaUSFX_Trabajo04/NaveEnemigaCazador.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Source\GalagaUSFX_Trabajo04\NaveEnemiga.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Source\GalagaUSFX_Trabajo04\Subscriber.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_Trabajo04\Subscriber.generated.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Source\GalagaUSFX_Trabajo04\IEscape.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_Trabajo04\IEscape.generated.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_Trabajo04\NaveEnemiga.generated.h
+C:\SIS457\GalagaUSFX_Trabajo05_Sirve\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_Trabajo04\NaveEnemigaCazador.generated.h
